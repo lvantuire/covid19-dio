@@ -5,7 +5,7 @@
         "jsx": "react",
         "paths": {
             "components:/*": [
-                "./components/*"
+                "componentes/*"
             ],
             "containers:/*": [
                 "./containers/*"
